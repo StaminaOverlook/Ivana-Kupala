@@ -1,0 +1,11 @@
+Intermediate/*
+!Intermediate/Config
+
+Saved/*
+Platforms/HoloLens/*
+Build/*
+DerivedDataCache/*
+
+# Content folders
+Content/Developers/*
+Content/Collections/*
