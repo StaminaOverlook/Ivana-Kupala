@@ -1,9 +1,9 @@
 Intermediate/*
-!Intermediate/Config
 
 Saved/*
 Platforms/HoloLens/*
 Build/*
+Binaries/*
 DerivedDataCache/*
 
 # Content folders
