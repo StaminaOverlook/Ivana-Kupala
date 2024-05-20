@@ -1,0 +1,3 @@
+[submodule "Plugins/EditorUIScale"]
+	path = Plugins/EditorUIScale
+	url = https://github.com/KTA552/UE-EditorUIScaleCustomization
