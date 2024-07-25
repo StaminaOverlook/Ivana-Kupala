@@ -139,10 +139,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "GitSourceControl",
-			"Enabled": false
-		},
-		{
 			"Name": "JsonBlueprintUtilities",
 			"Enabled": true
 		},
