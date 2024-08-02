@@ -1,0 +1,12 @@
+{
+	"info": {
+		"isDialogue": true
+	},
+	"script": [
+		{
+			"line": "Постой, дружина, ступай сюда.",
+			"speaker": "Странный старец",
+			"image": "leshy"
+		}
+	]
+}

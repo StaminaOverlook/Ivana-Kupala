@@ -1,0 +1,8 @@
+{
+	"info": {
+		"isDialogue": false
+	},
+	"script": [
+		{ "line": "Звери!" }
+	]
+}

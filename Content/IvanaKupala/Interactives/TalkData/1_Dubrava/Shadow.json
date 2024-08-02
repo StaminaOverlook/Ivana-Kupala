@@ -1,0 +1,12 @@
+{
+	"info": {
+		"isDialogue": true
+	},
+	"script": [
+		{
+			"line": "...Сынок? Постой!",
+			"speaker": "Ока",
+			"image": "oka"
+		}
+	]
+}
