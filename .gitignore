@@ -2,9 +2,12 @@ Intermediate/*
 
 Saved/*
 Platforms/HoloLens/*
-Build/*
-Binaries/*
 DerivedDataCache/*
+
+# Various build files
+Build/*
+Package/*
+Binaries/*
 
 # Content folders
 Content/Developers/*
